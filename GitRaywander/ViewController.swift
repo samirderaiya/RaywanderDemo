@@ -17,6 +17,8 @@ class ViewController: UIViewController {
 
     @IBAction func btnMagicalClicked(_ sender: UIButton) {
         print("You are done!!")
+        
+        print("Hello From New User Harsh! How are you samir?")
     }
     
 }
